@@ -1,4 +1,4 @@
-# Course-Registration-System
+# Course Registration System
 A Course Registration System web application that follows CRUD operations for student as well as on the courses with a database model, using flask and flask-SQLAlchemy.
 
 ## Requirements
